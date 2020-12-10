@@ -1,0 +1,7 @@
+div span{
+    color: violet;
+}
+
+div>span{
+    color: orange;
+}

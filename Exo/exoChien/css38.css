@@ -1,0 +1,23 @@
+#chien1{
+    width: 300px;
+    height: 300px;
+    /*display: inherit;*/
+}
+#chien2{
+    width: 300px;
+    height: 300px;
+    /*display: none;*/
+}
+#chien3{
+    width: 300px;
+    height: 300px;
+    /*display: none;*/
+}
+
+.masque{
+    display: none;
+}
+
+.afficher{
+    display: inherit; 
+}
