@@ -9,10 +9,12 @@ function jouer(id) {
     else{
         if(color_case=="blue"){
             cell.classList.add("rose")
+            cell.innerText="X"
             color_case="rose"
         }
         else{
             cell.classList.add("blue") 
+            cell.innerText="O"
             color_case="blue"
         }
     } 
@@ -46,7 +48,15 @@ function jouer(id) {
         cell = document.getElementById("case9")
         cell.classList.remove("blue")
         cell.classList.remove("rose")
-
+        case1.innerText=" "
+        case2.innerText=" "
+        case3.innerText=" "
+        case4.innerText=" "
+        case5.innerText=" "
+        case6.innerText=" "
+        case7.innerText=" "
+        case8.innerText=" "
+        case9.innerText=" "-/*
     }
 
     

@@ -1,0 +1,58 @@
+#parentBlue{
+    background-color: blue;
+    width: 700px;
+    height: 680px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#Pink1{
+    background-color: rgb(241, 85, 189);
+    width: 650px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#Yellow{
+    background-color: yellow;
+    width:90px;
+    height: 60px;
+}
+
+#Pink2{
+    background-color: rgb(241, 85, 189);
+    width: 650px;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Green{
+    background-color: lime;
+    width: 275px;
+    height: 210px;
+}
+
+#Pink3{
+    background-color: rgb(241, 85, 189);
+    width: 650px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+#Red{
+    background-color: red;
+    width:90px;
+    height: 60px;
+    margin: 30px;
+}

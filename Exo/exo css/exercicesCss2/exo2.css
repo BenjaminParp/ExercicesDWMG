@@ -1,0 +1,62 @@
+#bleu{
+    background-color: skyblue;
+    width: 600px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+#blanche{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    width: 500px;
+    height: 100px;
+    justify-content: space-between;
+}
+
+#transparent1{
+    display: flex;
+    width: 500px;
+    height: 100px;
+}
+
+#transparent2{
+    display: flex;
+    width: 500px;
+    height: 100px;
+}
+
+.rouge{
+    background-color: red;
+    height: 30px;
+    width: 100px;
+}
+
+.jaune{
+    background-color: orange;
+    width: 200px;
+    height: 60px;
+    margin: 10px;
+
+}
+
+.vert{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    background-color: lightgreen;
+    width: 200px;
+    height: 60px;
+    margin: 10px;
+}
+
+.rose{
+    background-color: pink;
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+}
