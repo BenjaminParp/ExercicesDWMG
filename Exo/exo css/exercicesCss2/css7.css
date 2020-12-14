@@ -1,0 +1,15 @@
+ul{
+    height: auto;
+    list-style: none;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p{
+    display: flex;
+    align-items: flex-start;
+}
+

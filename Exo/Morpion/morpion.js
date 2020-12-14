@@ -56,7 +56,7 @@ function jouer(id) {
         case6.innerText=" "
         case7.innerText=" "
         case8.innerText=" "
-        case9.innerText=" "-/*
+        case9.innerText=" "
     }
 
     
